@@ -1,9 +1,9 @@
 define([
     'uiComponent'
-], function (
-   Component
+], function(
+    Component
 ) {
-
     'use strict';
+
     return Component;
-})
+});
